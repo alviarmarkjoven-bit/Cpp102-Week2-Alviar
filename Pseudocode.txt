@@ -1,0 +1,40 @@
+Example 1: 
+Pseudocode:
+START
+INPUT num1
+INPUT num2
+PROCESS sum = num1 +  num2
+DISPLAY sum
+END
+
+Example 2:
+Pseudocode:
+START
+INPUT grade
+IF grade >= 60 THEN
+        DISPLAY " Passed"
+ELSE
+        DISPLAY "Failed"
+END IF
+END
+
+Example 3:
+Pseudocode:
+START
+INPUT number
+IF number >= 0 THEN
+       DISPLAY "Positive"
+ELSE
+       DISPLAY "Negative"
+END IF
+END
+
+Example 4:
+Pseudocode:
+START
+INPUT grade1
+INPUT grade2
+INPUT grade3
+PROCESS average = (grade1+grade2+grade3)/3]
+DISPLAY average
+END
